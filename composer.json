@@ -1,0 +1,19 @@
+{
+    "name": "myzazra/labhello",
+    "description": "belajar membuat library sederhana",
+    "type": "library",
+    "license": "NIT",
+    "authors": [
+        {
+            "name": "Nadia Cahyani Zazra",
+            "email": "nadiazazra@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "myzazra\\labhello\\": "src/"
+        }
+    },
+    "require": {}
+}
